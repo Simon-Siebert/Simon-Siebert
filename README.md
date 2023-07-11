@@ -18,9 +18,8 @@
 - <b>Machine Learning</b>
   - [CodeCademy Machine Learning/AI Engineer](https://i.imgur.com/ZXQndfr.png)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- <b>LinkedIn<b/>
+  - [LinkedIn](https://www.linkedin.com/in/simon-siebert-914293283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsC5JPlq7SbGpyC8aPvzgjw%3D%3D)
 
