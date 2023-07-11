@@ -12,7 +12,11 @@
   - [Machine Translation Project](https://github.com/Simon-Siebert/Machine_Translation_Project)
 
 <h2>Certifications:</h2>
-- 
+
+- <b>Natural Language Processing</b>
+  - [CodeCademy Data Scientist: Natural Language Processing Specialist](https://i.imgur.com/3YhSiq7.png)
+- <b>Machine Learning</b>
+  - [CodeCademy Machine Learning/AI Engineer](https://i.imgur.com/ZXQndfr.png)
 
 <h2> 🤳 Connect with me:</h2>
 
