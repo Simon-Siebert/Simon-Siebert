@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning/Natural Language Processing Projects:</h2>
 
 - <b>E-Commerce Retrieval ChatBot</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [E-Commerce Retrieval ChatBot](https://github.com/Simon-Siebert/E-Commerce_Retrieval_ChatBot/tree/main)
 - <b>Sentiment Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Customer Segmentation Analysis</b>
