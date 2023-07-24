@@ -10,6 +10,9 @@
   - [Customer Segmentation Analysis](https://github.com/Simon-Siebert/Customer_Segmentation_Analysis/tree/main)
 - <b>Machine Translation Project (Spanish to English)</b>
   - [Machine Translation Project](https://github.com/Simon-Siebert/Machine_Translation_Project)
+- <b>Image Classification Project (Deep Learning Neural Network) </b>
+  - [Nike/Addidas Image Classification](https://github.com/Simon-Siebert/Nike_Addidas_Image_Classification)
+
 
 <h2>Certifications:</h2>
 
